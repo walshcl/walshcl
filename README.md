@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://walsh.cl/my-work/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Where The Streets Do Have a Name](https://walsh.cl/where-the-streets-do-have-a-name/)
 - [Chilean Spanish Slang: The Naughty Words Edition](https://walsh.cl/chilean-spanish-slang-the-naughty-words-edition/)
 - [A Bit of Spring Teching](https://walsh.cl/a-bit-of-spring-teching/)
 - [Chilean Spanish Your Dictionary Is Missing](https://walsh.cl/chilean-spanish-your-dictionary-is-missing/)
 - [A Pet Project: Zodiacl](https://walsh.cl/a-pet-project-zodiacl/)
-- [You&#39;re Going to Beg For An Algocracy](https://walsh.cl/youre-going-to-beg-for-an-algocracy/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
