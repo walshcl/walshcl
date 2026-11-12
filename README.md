@@ -31,5 +31,5 @@ You can see more of my recent projects here: https://walsh.cl/my-work/
 
 ### **Follow Me Here:**
 
-- **GitHub**: https://github.com/yowalsh
-- **Medium**: https://yowalsh.medium.com/
+- **GitHub**: https://github.com/walshcl
+- **Medium**: https://walshcl.medium.com/
