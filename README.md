@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://walsh.cl/my-work/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Once Someone Already Has Your Email, Does Encryption Matter?](https://walsh.cl/once-someone-already-has-your-email-does-encryption-matter/)
 - [Where The Streets Do Have a Name](https://walsh.cl/where-the-streets-do-have-a-name/)
 - [Chilean Spanish Slang: The Naughty Words Edition](https://walsh.cl/chilean-spanish-slang-the-naughty-words-edition/)
 - [A Bit of Spring Teching](https://walsh.cl/a-bit-of-spring-teching/)
 - [Chilean Spanish Your Dictionary Is Missing](https://walsh.cl/chilean-spanish-your-dictionary-is-missing/)
-- [A Pet Project: Zodiacl](https://walsh.cl/a-pet-project-zodiacl/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
